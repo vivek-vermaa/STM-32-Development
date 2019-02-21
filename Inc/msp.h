@@ -9,5 +9,7 @@
 #define MSP_H_
 
 
+void HAL_MSP_INIT();
+
 
 #endif /* MSP_H_ */
